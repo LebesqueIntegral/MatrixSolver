@@ -1,0 +1,9 @@
+C:\Users\1\Desktop\Projects\MySolution\bin\Debug\MySolution.exe.config
+C:\Users\1\Desktop\Projects\MySolution\bin\Debug\MySolution.exe
+C:\Users\1\Desktop\Projects\MySolution\bin\Debug\MySolution.pdb
+C:\Users\1\Desktop\Projects\MySolution\bin\Debug\CSharpLibrary.dll
+C:\Users\1\Desktop\Projects\MySolution\bin\Debug\CSharpLibrary.pdb
+C:\Users\1\Desktop\Projects\MySolution\obj\Debug\MySolution.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Projects\MySolution\obj\Debug\MySolution.csproj.CopyComplete
+C:\Users\1\Desktop\Projects\MySolution\obj\Debug\MySolution.exe
+C:\Users\1\Desktop\Projects\MySolution\obj\Debug\MySolution.pdb

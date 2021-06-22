@@ -1,0 +1,5 @@
+C:\Users\1\Desktop\Projects\CSharpLibrary\bin\Debug\CSharpLibrary.dll
+C:\Users\1\Desktop\Projects\CSharpLibrary\bin\Debug\CSharpLibrary.pdb
+C:\Users\1\Desktop\Projects\CSharpLibrary\obj\Debug\CSharpLibrary.dll
+C:\Users\1\Desktop\Projects\CSharpLibrary\obj\Debug\CSharpLibrary.pdb
+C:\Users\1\Desktop\Projects\CSharpLibrary\obj\Debug\CSharpLibrary.csprojAssemblyReference.cache
